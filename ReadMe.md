@@ -1,7 +1,7 @@
 # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35px">
-I'm Lakshya Nunia
+#I'm Lakshya Nunia
 
-## SDE & Data Science
+## Data Science & SDE
 
 I'm a B.Tech Computer Science (Software Development and Data Science) student with a strong interest in Data Structures and Algorithms and competitive programming. I am passionate about understanding how systems work and enjoy breaking down complex problems into simple, logical solutions. I consider myself disciplined, adaptable, and growth-oriented, always looking for opportunities to learn something new and improve every day.
  - 🖥️ See my portfolio: [**My Portfolio**](https://lakshya-nunia.vercel.app/)
