@@ -17,40 +17,101 @@ I am passionate about understanding how systems work and enjoy breaking down com
 ## 🛠️ Skills
 
 <p align="left">
+
 <a href="https://www.oracle.com/java/" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="40" height="40"/>
 </a>
+
 <a href="https://www.python.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="40" height="40"/>
 </a>
+
 <a href="https://isocpp.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="40" height="40"/>
 </a>
+
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="40" height="40"/>
 </a>
+
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="40" height="40"/>
 </a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="40" height="40"/>
 </a>
+
 <a href="https://www.w3.org/TR/CSS/" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="40" height="40"/>
 </a>
+
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="40" height="40"/>
 </a>
+
 <a href="https://ubuntu.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="40" height="40"/>
 </a>
+
 <a href="https://www.blender.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="40" height="40"/>
 </a>
+
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="40" height="40"/>
 </a>
+
+<a href="https://unity.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/unity/FFFFFF" alt="Unity" title="Unity" width="40" height="40"/>
+</a>
+
+<a href="https://hadoop.apache.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" alt="Hadoop" title="Hadoop" width="40" height="40"/>
+</a>
+
+<a href="https://hive.apache.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/apachehive/FDEE21" alt="Hive" title="Hive" width="40" height="40"/>
+</a>
+
+<a href="https://spark.apache.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/apachespark/E25A1C" alt="Spark" title="Spark" width="40" height="40"/>
+</a>
+
+<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" title="Excel" width="40" height="40"/>
+</a>
+
+<a href="https://powerbi.microsoft.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" title="Power BI" width="40" height="40"/>
+</a>
+
+<a href="https://www.canva.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" title="Canva" width="40" height="40"/>
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank">
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn" title="Scikit-learn" height="40"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas" title="Pandas" height="40"/>
+</a>
+
+<a href="https://numpy.org/" target="_blank">
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy" title="NumPy" height="40"/>
+</a>
+
+<a href="https://matplotlib.org/" target="_blank">
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" alt="Matplotlib" title="Matplotlib" height="40"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" title="GitHub" width="40" height="40"/>
+</a>
+
 </p>
+
 
 ---
 
