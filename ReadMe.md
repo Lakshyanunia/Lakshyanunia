@@ -54,6 +54,5 @@ I'm a B.Tech Computer Science (Software Development and Data Science) student wi
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lakshyanunia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Lakshyanunia&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
