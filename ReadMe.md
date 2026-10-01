@@ -81,41 +81,17 @@ I am passionate about understanding how systems work and enjoy breaking down com
 ## 📊 GitHub Stats
 
 <p align="center">
+
 <a href="https://github.com/lakshyanunia">
-<img src="https://github-readme-stats.vercel.app/api?username=lakshyanunia&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Lakshya's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lakshyanunia&show_icons=true&count_private=true&hide_border=true&bg_color=0D0505&title_color=FF4D4D&text_color=F5DADA&icon_color=FF3333" alt="Lakshya's GitHub Stats"/>
 </a>
+
 </p>
 
 <p align="center">
+
 <a href="https://github.com/lakshyanunia">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyanunia&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
-</a>
-</p>
-
----
-
-## 💻 Top Repositories
-
-<p align="center">
-
-<a href="https://github.com/lakshyanunia/Traffic-Crash-Analysis-Dashboard-using-PowerBI">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=lakshyanunia&repo=Traffic-Crash-Analysis-Dashboard-using-PowerBI&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
-</a>
-
-<a href="https://github.com/lakshyanunia/Efficient-Page-Replacement-Algorithm-Simulator">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=lakshyanunia&repo=Efficient-Page-Replacement-Algorithm-Simulator&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/lakshyanunia/Covid-19-impact-analysis-and-visualisation-">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=lakshyanunia&repo=Covid-19-impact-analysis-and-visualisation-&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
-</a>
-
-<a href="https://github.com/lakshyanunia/Sales-and-Profit-using-excel">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=lakshyanunia&repo=Sales-and-Profit-using-excel&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyanunia&hide_border=true&background=0D0505&stroke=3D1515&ring=FF3333&fire=FF6666&currStreakLabel=FF4D4D&sideLabels=F5DADA&dates=9E6B6B" alt="GitHub Streak"/>
 </a>
 
 </p>
@@ -125,9 +101,11 @@ I am passionate about understanding how systems work and enjoy breaking down com
 ## 🧑‍💻 LeetCode
 
 <p align="center">
+
 <a href="https://leetcode.com/u/Lakshyanunia/">
 <img src="https://leetcard.jacoblin.cool/Lakshyanunia?theme=dark&font=Baloo&ext=heatmap" alt="Lakshya's LeetCode Profile"/>
 </a>
+
 </p>
 
 ---
@@ -143,8 +121,12 @@ I am passionate about understanding how systems work and enjoy breaking down com
 
 ---
 
+## 📈 Profile Views
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=lakshyanunia&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+
+<img src="https://komarev.com/ghpvc/?username=lakshyanunia&label=Profile%20Views&color=8B0000&style=flat" alt="Profile Views"/>
+
 </p>
 
 <p align="center">
