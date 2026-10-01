@@ -2,7 +2,7 @@
 
 ## I'm Lakshya Nunia
 
-### SDE & Data Science
+## SDE & Data Science
 
 I'm a B.Tech Computer Science (Software Development and Data Science) student with a strong interest in Data Structures and Algorithms and competitive programming. I am passionate about understanding how systems work and enjoy breaking down complex problems into simple, logical solutions. I consider myself disciplined, adaptable, and growth-oriented, always looking for opportunities to learn something new and improve every day.
  - 🖥️ See my portfolio: [**My Portfolio**](https://lakshya-nunia.vercel.app/)
